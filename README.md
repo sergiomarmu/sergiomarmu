@@ -13,7 +13,7 @@
 ### Frontend
 
 <div align="center">  
-    <img style="margin: 16px" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Android_logo_%282014-2019%29.png" alt="Android" height="50" />
+    <img style="margin: 16px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Android_robot_%282014-2019%29.svg/1024px-Android_robot_%282014-2019%29.svg.png" alt="Android" height="50" />
     <img style="margin: 16px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin" height="50" />
     <img style="margin: 16px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" alt="Java" height="50" />
     <img style="margin: 16px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" height="50" />
